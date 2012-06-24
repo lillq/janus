@@ -1,0 +1,6 @@
+[submodule "bufexplorer"]
+	path = bufexplorer
+	url = https://github.com/c9s/bufexplorer.git
+[submodule "peepopenvim"]
+	path = peepopenvim
+	url = https://github.com/lillq/peepopenvim.git
